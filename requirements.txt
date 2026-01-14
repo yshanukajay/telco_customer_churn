@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+numpy
+openai #EDA process
+groq #EDA process
+seaborn
+matplotlib
+python-dotenv
+pydantic
+dotenv
