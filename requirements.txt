@@ -8,3 +8,11 @@ matplotlib
 python-dotenv
 pydantic
 dotenv
+imbalanced-learn
+plotly
+joblib
+pyyaml
+python-dotenv
+pandas-profiling
+statsmodels
+ipython
